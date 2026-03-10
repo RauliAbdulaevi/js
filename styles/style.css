@@ -48,7 +48,9 @@
     left: 0;
     display: none;
 }
-
+.dances .dancesmain p::-webkit-scrollbar {
+  display: none;
+}
 .georgian {
     background-color: #d8bb5d;
 }
